@@ -1,6 +1,5 @@
-# ✅ Task Tracker - Web Programming Lab Project (IF330L)
+# ✅ Task Tracker
 
-This project is created as part of the **Mid-Term Exam (UTS)** for the *Web Programming Lab* course (IF330L) at **Universitas Multimedia Nusantara**.  
 It is a web-based **To-Do List / Task Tracker** app designed to help users manage their tasks effectively and securely.
 
 ---
